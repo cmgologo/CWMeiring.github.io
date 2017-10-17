@@ -1,0 +1,55 @@
+body{
+	background:url(Background2.jpg);	
+}
+#divone{	
+	margin:auto;
+	width:900;
+	height:80;
+	border:3px solid #9c1410;
+	border-radius:20%;
+
+}
+h1{	font-size:50;
+	text-align:center;
+	color:#9c1410;
+	margin:auto;
+	margin-top:-50;
+	position:absulite;
+}
+
+#aone{	float:right;
+	margin-right:20;
+}
+
+#divthree{
+	width:900;
+	height:1000;
+	border-radius:5%;
+	opacity:0.9;
+	margin:auto;
+	border:1px solid black;
+	background-color:#9c1410;
+	margin-top:50;
+}
+
+#logo{
+	width:50;
+	height:50;
+	border:3px solid #9c1410;
+	background-color:Black;
+	border-radius:100%;
+	float:right;
+	margin-top:-60;
+	margin-right:50px;
+	position:absulite;
+	
+}	
+#imgone{
+	margin-top:5;
+	margin-left:10;
+}
+#imgtwo{
+	margin-top:20;
+	margin-left:50;
+}
+
