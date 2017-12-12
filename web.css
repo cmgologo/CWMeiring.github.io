@@ -33,7 +33,7 @@ body{
 	width:60px;
 	height:80px;
 	position:absolute;
-	margin-top:-10.3%;
+	margin-top:-130px;
 	margin-left:68%;
 	border-radius:10%;
 }
@@ -114,9 +114,9 @@ body{
 #gearone{
 	width:150px;
 	height:150px;
-	margin-top:2%;
+	margin-top:10px;
 	margin-left:420px;
-	position:absolute;
+	position:relative;
 	-webkit-animation:spin 5s linear infinite;
 }
 @-webkit-keyframes spin{
@@ -126,9 +126,9 @@ body{
 #geartwo{
 	width:100px;
 	height:100px;
-	margin-top:12%;
+	margin-top:-10px;
 	margin-left:530px;
-	position:absolute;
+	position:relative;
 	-webkit-animation:spintwo 6s linear infinite;
 }
 @-webkit-keyframes spintwo{
@@ -136,9 +136,9 @@ body{
 }
 
 #blogunder{	
-	margin-top:25%;
-	margin-left:27%;
-	position:absolute;
+	margin-top:;
+	margin-left:370px;
+	position:relative;
 	font-size:160%;
 }
 
@@ -158,8 +158,8 @@ body{
 }
 
 #imgbr{
-	width:20%;
-	height:30%;
+	width:200px;
+	height:300px;
 	margin-left:1%;
 	margin-top:1%;	
 }
