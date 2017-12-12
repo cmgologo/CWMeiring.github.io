@@ -115,7 +115,7 @@ body{
 	width:150px;
 	height:150px;
 	margin-top:10px;
-	margin-left:420px;
+	margin-left:0px;
 	position:relative;
 	-webkit-animation:spin 5s linear infinite;
 }
