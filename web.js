@@ -1,3 +1,10 @@
+var width = screen.width;
+var fsiz = document.getElementById("aboutp"); 
+
+if(width <= 900){
+	fsize.style.fontSize = 10 + "px";
+};
+
 function one(){
 	var amoverone =
 document.getElementById("pAbout");
