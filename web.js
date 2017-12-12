@@ -2,6 +2,7 @@ var width = screen.width;
 var fsiz = document.getElementById("aboutp"); 
 
 if(width <= 900){
+	alert("mobile");
 	fsiz.style.fontSize = 10 + "px";
 };
 
